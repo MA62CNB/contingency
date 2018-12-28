@@ -16,12 +16,14 @@ Thus, you have to transmit this important message to your HQ to inform them and 
 Each player rolls a die and bigger roll starts the game.
 
 Number One
+
 -You can hide behind a carriage(first junction, translucent path) but there is a risk to be spotted at enemy checkpoint.
 Keep rolling 4 or greater in this path to go stealth. Otherwise back to junction and choose wisely! (Persuation)
 -You have also longcut(second junction, translucent path) to choose.
 It may be more safe and you avoid enemy wild animals but takes longer time! (Patience)
 
 Number Two
+
 -You need to be super quick and a little bit lucky.
 Odd number rolls does not let you carry on so event die rolls are what you need.
 When you come to junction you may enter local village and take risk of being spotted(try to avoid even number rolls to pass undetected) and turn back to junction or take the longcut(blue path) and avoid all the dangers (Nobody loves foreign forces in mother soil!).
